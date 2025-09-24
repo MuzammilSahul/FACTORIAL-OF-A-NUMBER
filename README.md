@@ -53,8 +53,8 @@ END
 
 ```
 OUTPUT
+<img width="867" height="1088" alt="Screenshot 2025-09-24 215206" src="https://github.com/user-attachments/assets/4128f178-66b2-48f9-ac46-bba6db4ba351" />
 
-(Keil output screenshot can be inserted here)
 
 ---
 MANUAL CALCULATIONS
